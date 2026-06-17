@@ -3,3 +3,8 @@ def hello_world():
 
 def calculator(a,b):
     return a+b
+
+def main():
+    hello_world()
+
+main()
