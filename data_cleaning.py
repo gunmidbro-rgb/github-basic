@@ -6,5 +6,6 @@ def calculator(a,b):
 
 def main():
     hello_world()
+    calculator(2,10)
 
 main()
